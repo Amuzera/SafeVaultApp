@@ -1,0 +1,2 @@
+# SafeVaultApp
+SafeVault is a secure web API application designed to manage user data safely by applying modern security practices. It validates and sanitizes user input, uses parameterized database queries to prevent SQL injection, and includes authentication and role-based authorization with hashed passwords and JWT tokens. The app also protects administrative features so only authorized users can access them, and it includes tests to verify resistance against common attacks such as SQL injection and XSS.
