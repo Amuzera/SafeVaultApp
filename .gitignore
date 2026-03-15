@@ -52,3 +52,9 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Ignore appsettings files which may contain sensitive information
+appsettings.json
+appsettings.Development.json
+bin/
+obj/
